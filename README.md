@@ -46,7 +46,16 @@ En primer lugar creamos y definimos nuestra fuente de datos.
 	*  Los precios de Airbnb vinen calculados por día, hemos creado un campo nuevo denominado "MediaM2_Airbnb_Mes", para tener el precio por mes ya calculado.
 
 9. Una vez preparada toda la fuente de datos, se empieza a desarrollar las diferentes hojas para hacer la composición de Dasboard final.
-	* Se ha creado 3 paneles para representar todos los KPIs necesarios para poder tomar la mejor decisión a la hora de adquirir los inmuebles
+	* Se ha creado 4 paneles para representar todos los KPIs necesarios para poder tomar la mejor decisión a la hora de adquirir los inmuebles.
+	* En el primer panel podemos ver y comparar el precio recomendado de alquiler (calculado a través del precio de venta) y el precio real de alquiler, según datos de idealista y clasificado por zonas. Tambien añadimos el total de viviendas y las veces que han sido alquiladas.
+	* Cualquier pulsación en este panel, hará de filtro para los demás.
+	* En el panel "Compara alquiler y venta, podremos encontrar los tres precios de alquiler por mes más el precio de venta por m2.
+	* En el panel situado en la parte superior derecha, encontraremo el total de viviendas clasificadas por zona y tipo
+	* En la parte inferior, tenemos una representación de datos situados en un mapa. Hemos introducido una ventana emergente que nos nos muestra los datos en formato texto y hemos incrurstado un diagrama de anillo.
+
+
+## Conclusión final
+Esperamos que nuestro cliente pueda tomar decisiones a través de la información facilitada y representada en este estuduio.
 	
  
 
